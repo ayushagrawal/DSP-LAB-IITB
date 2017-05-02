@@ -1,0 +1,235 @@
+
+**** Build of configuration Debug for project bit_reciever ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 4 all -O 
+gmake[1]: 'bit_reciever.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bit_reciever ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 4 all -O 
+gmake[1]: 'bit_reciever.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bit_reciever ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 4 all -O 
+gmake[1]: 'bit_reciever.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bit_reciever ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 4 all -O 
+'Building file: ../bit_receiver.c'
+'Invoking: C5500 Compiler'
+"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/bin/cl55" -v5515 --memory_model=large -g --include_path="C:/Users/dell/Desktop/DSP_LAB/bit_reciever" --include_path="C:/Program Files (x86)/Texas Instruments/ccsv4/emulation/boards/usbstk5515_v1/include" --include_path="C:/ti/ccsv7/tools/compiler/c5500_4.4.1/include" --define=c5515 --display_error_number --diag_warning=225 --ptrdiff_size=32 --printf_support=full --preproc_with_compile --preproc_dependency="bit_receiver.d"  "../bit_receiver.c"
+'Finished building: ../bit_receiver.c'
+' '
+'Building target: bit_reciever.out'
+'Invoking: C5500 Linker'
+"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/bin/cl55" -v5515 --memory_model=large -g --define=c5515 --display_error_number --diag_warning=225 --ptrdiff_size=32 --printf_support=full -z -m"bit_reciever.map" --stack_size=0x400 --heap_size=0x400 -i"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/lib" -i"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/include" --reread_libs --display_error_number --warn_sections --xml_link_info="bit_reciever_linkInfo.xml" --rom_model --sys_stacksize=0x400 -o "bit_reciever.out" "./bit_receiver.obj" "../C5515.cmd"  -l"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/lib/rts55x.lib" -l"C:/Program Files (x86)/Texas Instruments/ccsv4/emulation/boards/usbstk5515_v1/lib/usbstk5515bsl.lib" -lrts55x.lib 
+<Linking>
+"../bit_receiver.c", line 190: warning #179-D: variable "x" was declared but never referenced
+"../bit_receiver.c", line 192: warning #179-D: variable "p" was declared but never referenced
+'Finished building target: bit_reciever.out'
+' '
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bit_reciever ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 4 all -O 
+'Building file: ../bit_receiver.c'
+'Invoking: C5500 Compiler'
+"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/bin/cl55" -v5515 --memory_model=large -g --include_path="C:/Users/dell/Desktop/DSP_LAB/bit_reciever" --include_path="C:/Program Files (x86)/Texas Instruments/ccsv4/emulation/boards/usbstk5515_v1/include" --include_path="C:/ti/ccsv7/tools/compiler/c5500_4.4.1/include" --define=c5515 --display_error_number --diag_warning=225 --ptrdiff_size=32 --printf_support=full --preproc_with_compile --preproc_dependency="bit_receiver.d"  "../bit_receiver.c"
+"../bit_receiver.c", line 190: warning #179-D: variable "x" was declared but never referenced
+"../bit_receiver.c", line 192: warning #179-D: variable "p" was declared but never referenced
+'Finished building: ../bit_receiver.c'
+' '
+'Building target: bit_reciever.out'
+'Invoking: C5500 Linker'
+"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/bin/cl55" -v5515 --memory_model=large -g --define=c5515 --display_error_number --diag_warning=225 --ptrdiff_size=32 --printf_support=full -z -m"bit_reciever.map" --stack_size=0x400 --heap_size=0x400 -i"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/lib" -i"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/include" --reread_libs --display_error_number --warn_sections --xml_link_info="bit_reciever_linkInfo.xml" --rom_model --sys_stacksize=0x400 -o "bit_reciever.out" "./bit_receiver.obj" "../C5515.cmd"  -l"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/lib/rts55x.lib" -l"C:/Program Files (x86)/Texas Instruments/ccsv4/emulation/boards/usbstk5515_v1/lib/usbstk5515bsl.lib" -lrts55x.lib 
+<Linking>
+'Finished building target: bit_reciever.out'
+' '
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bit_reciever ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 4 all -O 
+'Building file: ../bit_receiver.c'
+'Invoking: C5500 Compiler'
+"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/bin/cl55" -v5515 --memory_model=large -g --include_path="C:/Users/dell/Desktop/DSP_LAB/bit_reciever" --include_path="C:/Program Files (x86)/Texas Instruments/ccsv4/emulation/boards/usbstk5515_v1/include" --include_path="C:/ti/ccsv7/tools/compiler/c5500_4.4.1/include" --define=c5515 --display_error_number --diag_warning=225 --ptrdiff_size=32 --printf_support=full --preproc_with_compile --preproc_dependency="bit_receiver.d"  "../bit_receiver.c"
+"../bit_receiver.c", line 190: warning #179-D: variable "x" was declared but never referenced
+"../bit_receiver.c", line 192: warning #179-D: variable "p" was declared but never referenced
+'Finished building: ../bit_receiver.c'
+' '
+'Building target: bit_reciever.out'
+'Invoking: C5500 Linker'
+"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/bin/cl55" -v5515 --memory_model=large -g --define=c5515 --display_error_number --diag_warning=225 --ptrdiff_size=32 --printf_support=full -z -m"bit_reciever.map" --stack_size=0x400 --heap_size=0x400 -i"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/lib" -i"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/include" --reread_libs --display_error_number --warn_sections --xml_link_info="bit_reciever_linkInfo.xml" --rom_model --sys_stacksize=0x400 -o "bit_reciever.out" "./bit_receiver.obj" "../C5515.cmd"  -l"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/lib/rts55x.lib" -l"C:/Program Files (x86)/Texas Instruments/ccsv4/emulation/boards/usbstk5515_v1/lib/usbstk5515bsl.lib" -lrts55x.lib 
+<Linking>
+'Finished building target: bit_reciever.out'
+' '
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bit_reciever ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 4 all -O 
+gmake[1]: 'bit_reciever.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bit_reciever ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 4 all -O 
+gmake[1]: 'bit_reciever.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project transceiver_file ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 4 all -O 
+gmake[1]: 'transceiver_file.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bit_reciever ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 4 all -O 
+gmake[1]: 'bit_reciever.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project char_transmitter ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 4 all -O 
+gmake[1]: 'char_transmitter.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bit_reciever ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 4 all -O 
+gmake[1]: 'bit_reciever.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project transceiver_file ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 4 all -O 
+gmake[1]: 'transceiver_file.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project transceiver_file ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 4 all -O 
+'Building file: ../char_transciever.c'
+'Invoking: C5500 Compiler'
+"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/bin/cl55" -v5515 --memory_model=large -g --include_path="C:/Users/dell/Desktop/DSP_LAB/transceiver_file" --include_path="C:/Program Files (x86)/Texas Instruments/ccsv4/emulation/boards/usbstk5515_v1/include" --include_path="C:/ti/ccsv7/tools/compiler/c5500_4.4.1/include" --define=c5515 --display_error_number --diag_warning=225 --ptrdiff_size=32 --printf_support=full --preproc_with_compile --preproc_dependency="char_transciever.d"  "../char_transciever.c"
+"../char_transciever.c", line 652: warning #112-D: statement is unreachable
+'Finished building: ../char_transciever.c'
+' '
+'Building target: transceiver_file.out'
+'Invoking: C5500 Linker'
+"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/bin/cl55" -v5515 --memory_model=large -g --define=c5515 --display_error_number --diag_warning=225 --ptrdiff_size=32 --printf_support=full -z -m"transceiver_file.map" --stack_size=0x400 --heap_size=0x400 -i"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/lib" -i"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/include" --reread_libs --display_error_number --warn_sections --xml_link_info="transceiver_file_linkInfo.xml" --rom_model --sys_stacksize=0x400 -o "transceiver_file.out" "./char_transciever.obj" "../C5515.cmd"  -l"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/lib/rts55x.lib" -l"C:/Program Files (x86)/Texas Instruments/ccsv4/emulation/boards/usbstk5515_v1/lib/usbstk5515bsl.lib" -lrts55x.lib 
+<Linking>
+'Finished building target: transceiver_file.out'
+' '
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project transceiver_file ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 4 all -O 
+'Building file: ../char_transciever.c'
+'Invoking: C5500 Compiler'
+"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/bin/cl55" -v5515 --memory_model=large -g --include_path="C:/Users/dell/Desktop/DSP_LAB/transceiver_file" --include_path="C:/Program Files (x86)/Texas Instruments/ccsv4/emulation/boards/usbstk5515_v1/include" --include_path="C:/ti/ccsv7/tools/compiler/c5500_4.4.1/include" --define=c5515 --display_error_number --diag_warning=225 --ptrdiff_size=32 --printf_support=full --preproc_with_compile --preproc_dependency="char_transciever.d"  "../char_transciever.c"
+"../char_transciever.c", line 652: warning #112-D: statement is unreachable
+'Finished building: ../char_transciever.c'
+' '
+'Building target: transceiver_file.out'
+'Invoking: C5500 Linker'
+"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/bin/cl55" -v5515 --memory_model=large -g --define=c5515 --display_error_number --diag_warning=225 --ptrdiff_size=32 --printf_support=full -z -m"transceiver_file.map" --stack_size=0x400 --heap_size=0x400 -i"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/lib" -i"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/include" --reread_libs --display_error_number --warn_sections --xml_link_info="transceiver_file_linkInfo.xml" --rom_model --sys_stacksize=0x400 -o "transceiver_file.out" "./char_transciever.obj" "../C5515.cmd"  -l"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/lib/rts55x.lib" -l"C:/Program Files (x86)/Texas Instruments/ccsv4/emulation/boards/usbstk5515_v1/lib/usbstk5515bsl.lib" -lrts55x.lib 
+<Linking>
+'Finished building target: transceiver_file.out'
+' '
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project transceiver_file ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 4 all -O 
+gmake[1]: 'transceiver_file.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project char_reciever ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 4 all -O 
+gmake[1]: 'char_reciever.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project transceiver_file ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 4 all -O 
+gmake[1]: 'transceiver_file.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project transceiver_file ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 4 all -O 
+gmake[1]: 'transceiver_file.out' is up to date.
+
+**** Build Finished ****
+
+**** Clean-only build of configuration Debug for project reciever_ ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 4 clean -O 
+DEL /F  "reciever_.hex"  "reciever_.out" 
+DEL /F "char_transciever.obj" 
+DEL /F "char_transciever.d" 
+Could Not Find C:\Users\dell\Desktop\DSP_LAB\reciever_\Debug\reciever_.hex
+'Finished clean'
+' '
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project reciever_ ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 4 all -O 
+'Building file: ../char_receiver.c'
+'Invoking: C5500 Compiler'
+"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/bin/cl55" -v5515 --memory_model=large -g --include_path="C:/Users/dell/Desktop/DSP_LAB/reciever_" --include_path="C:/Program Files (x86)/Texas Instruments/ccsv4/emulation/boards/usbstk5515_v1/include" --include_path="C:/ti/ccsv7/tools/compiler/c5500_4.4.1/include" --define=c5515 --display_error_number --diag_warning=225 --ptrdiff_size=32 --printf_support=full --preproc_with_compile --preproc_dependency="char_receiver.d"  "../char_receiver.c"
+"../char_receiver.c", line 282: warning #112-D: statement is unreachable
+'Finished building: ../char_receiver.c'
+' '
+'Building target: reciever_.out'
+'Invoking: C5500 Linker'
+"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/bin/cl55" -v5515 --memory_model=large -g --define=c5515 --display_error_number --diag_warning=225 --ptrdiff_size=32 --printf_support=full -z -m"reciever_.map" --stack_size=0x400 --heap_size=0x400 -i"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/lib" -i"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/include" --reread_libs --display_error_number --warn_sections --xml_link_info="reciever__linkInfo.xml" --rom_model --sys_stacksize=0x400 -o "reciever_.out" "./char_receiver.obj" "../C5515.cmd"  -l"C:/ti/ccsv7/tools/compiler/c5500_4.4.1/lib/rts55x.lib" -l"C:/Program Files (x86)/Texas Instruments/ccsv4/emulation/boards/usbstk5515_v1/lib/usbstk5515bsl.lib" -lrts55x.lib 
+<Linking>
+'Finished building target: reciever_.out'
+' '
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project transceiver_file ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 4 all -O 
+gmake[1]: 'transceiver_file.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project char_transmitter ****
+
+"C:\\ti\\ccsv7\\utils\\bin\\gmake" -k -j 4 all -O 
+gmake[1]: 'char_transmitter.out' is up to date.
+
+**** Build Finished ****
